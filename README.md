@@ -29,9 +29,14 @@ If you’re looking for a **reliable Front-End Developer or WordPress Designer**
 ![](https://github-profile-trophy.vercel.app/?username=areebch-dev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=areebch-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=areebch-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=areebch-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areebch-dev&theme=radical"> -->
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=areebch-dev&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=areebch-dev&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=areebch-dev&theme=radical">
+<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=areebch-dev&theme=radical&utcOffset=8"> -->
+<!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=areebch-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=areebch-dev&theme=radical">
 
 <!-- Snake Game Repo View -->
 
