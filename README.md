@@ -6,6 +6,11 @@ Specializing in **HTML, CSS, JavaScript, React, Next.js & Angular**, with a stro
 📧 **Email:** codebyareeb@gmail.com  
 💼 **Open to:** Collaboration, Freelance Projects & Professional Opportunities
 
+ <!-- Typing Animation Subtitle -->
+ <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Creative+Designer;Front-End+Engineer;WordPress+Designer;React+%26+Angular+Developer;Dreaming+Big,+Building+Bigger" alt="Typing SVG" />
+
+
+
 ## 💼 What I Do
 
 - Front-End Web Development  
@@ -37,6 +42,9 @@ If you’re looking for a **reliable Front-End Developer or WordPress Designer**
 <!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=areebch-dev&theme=radical&utcOffset=8"> -->
 <!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=areebch-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=areebch-dev&theme=radical">
+
+
+## Dynamic Contribution Graph
 
 <!-- Snake Game Repo View -->
 
