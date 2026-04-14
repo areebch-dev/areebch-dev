@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Areeb Chaudhary
+# 👋 Hi, I'm Muhammad Areeb Mujahid
 
 🚀 **Front-End Developer**  
 Specializing in **HTML, CSS, JavaScript, React, Next.js & Angular**, with a strong focus on building responsive, user-friendly web interfaces.
