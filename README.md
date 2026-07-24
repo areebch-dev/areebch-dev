@@ -36,12 +36,13 @@ Alongside front-end development, I actively explore **AI Prompt Engineering** an
 
 I'm committed to writing maintainable code, **continuously learning modern technologies**, and contributing to projects that solve real-world problems with intuitive user experiences.
 
-⚛️ Building modern applications with React, Next.js & Angular
-🎨 Crafting responsive, accessible, and performance-optimized user interfaces
-🤖 Exploring AI Prompt Engineering, automation, and LLM workflows
-🚀 Focused on clean code, scalability, and exceptional user experience
-🌍 Open to remote, freelance, internship, and full-time opportunities
+⚛️ Building modern applications with React, Next.js & Angular<br/>
+🎨 Crafting responsive, accessible, and performance-optimized user interfaces<br/>
+🤖 Exploring AI Prompt Engineering, automation, and LLM workflows<br/>
+🚀 Focused on clean code, scalability, and exceptional user experience<br/>
+🌍 Open to remote, freelance, internship, and full-time opportunities<br/>
 
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Current_Status-Open_to_Work-2563EB?style=flat-square" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Remote_Ready-Available-22C55E?style=flat-square" alt="Remote ready"/>
