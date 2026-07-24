@@ -1,64 +1,130 @@
-# 👋 Hi, I'm Muhammad Areeb Mujahid
+<p align="center">
+  <img src="https://raw.githubusercontent.com/areebch-dev/areebch-dev/main/assets/banner.png" alt="Muhammad Areeb Mujahid Banner" width="100%"/>
+</p>
 
-🚀 **Front-End Developer**  
-Specializing in **HTML, CSS, JavaScript, React, Next.js & Angular**, with a strong focus on building responsive, user-friendly web interfaces.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=MUHAMMAD+AREEB+MUJAHID;Front-End+Engineer;React+%7C+Next.js+%7C+Angular;AI+Prompt+Engineer" alt="Typing SVG"/>
+</h1>
 
-📧 **Email:** codebyareeb@gmail.com  
-💼 **Open to:** Collaboration, Freelance Projects & Professional Opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=17&duration=4000&pause=1500&color=64748B&center=true&vCenter=true&width=750&lines=Building+scalable%2C+accessible+web+applications;Modern+UI%2FUX+%26+AI-powered+workflows;Turning+complex+ideas+into+clean+experiences;Open+to+remote%2C+freelance+%26+full-time+roles" alt="Typing SVG"/>
+</p>
 
- <!-- Typing Animation Subtitle -->
- <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Creative+Designer;Front-End+Engineer;WordPress+Designer;React+%26+Angular+Developer;Dreaming+Big,+Building+Bigger" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=areebch-dev&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge&base=1000" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/areebch-dev?label=FOLLOWERS&style=for-the-badge&color=2563EB" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/areebch-dev?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL+STARS&style=for-the-badge&color=2563EB" alt="Stars"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-areeb-ch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:codebyareeb@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/areebch-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/areeb9623"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=header" width="100%"/>
+
+---
+
+## 🚀 About Me
+
+I'm **Muhammad Areeb Mujahid**, a Front-End Engineer passionate about building fast, scalable, and user-focused web applications. I specialize in **React, Next.js, Angular**, and modern JavaScript, creating responsive interfaces that combine clean architecture, performance, and accessibility.
+
+Alongside front-end development, I actively explore **AI Prompt Engineering** and **LLM-powered workflows**, using AI to improve development processes, automate repetitive tasks, and build smarter digital experiences.
+
+I'm committed to writing maintainable code, **continuously learning modern technologies**, and contributing to projects that solve real-world problems with intuitive user experiences.
+
+⚛️ Building modern applications with React, Next.js & Angular
+🎨 Crafting responsive, accessible, and performance-optimized user interfaces
+🤖 Exploring AI Prompt Engineering, automation, and LLM workflows
+🚀 Focused on clean code, scalability, and exceptional user experience
+🌍 Open to remote, freelance, internship, and full-time opportunities
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Status-Open_to_Work-2563EB?style=flat-square" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Remote_Ready-Available-22C55E?style=flat-square" alt="Remote ready"/>
+  <img src="https://img.shields.io/badge/Relocation_Willing-Yes-22C55E?style=flat-square" alt="Relocation willing"/>
+</p>
+
+---
 
 
+## 🛠️ Tech Stack
 
-## 💼 What I Do
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap,redux,nodejs,git,github,vscode,figma,vercel" alt="Tech Stack"/>
+</p>
 
-- Front-End Web Development  
-- Modern UI Development with React & Next.js  
-- Angular-Based Web Applications  
-- WordPress Design & Customization  
-- Responsive & Performance-Optimized Websites
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
-## 🤝 Let’s Connect
+---
 
-If you’re looking for a **reliable Front-End Developer or WordPress Designer**, feel free to reach out , I’m always open to meaningful collaborations and exciting projects.
+## 📊 GitHub Analytics
 
-
-# 🌐 Connect With Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daniyal.shair.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/areeb9623) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-areeb-ch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codebyareeb@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=areebch-dev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-# 📊 GitHub Stats:
-
-<!-- <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areebch-dev&theme=radical"> -->
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=areebch-dev&theme=radical">
+<p align="center">
+ <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=areebch-dev&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=areebch-dev&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=areebch-dev&theme=radical">
-<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=areebch-dev&theme=radical&utcOffset=8"> -->
-<!-- <img height="169em" src="https://github-readme-stats.vercel.app/api?username=areebch-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=areebch-dev&theme=radical">
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=areebch-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB" alt="GitHub streak"/>
+</p>
 
-## Dynamic Contribution Graph
+<br/>
 
-<!-- Snake Game Repo View -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areebch-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2563EB&line=2563EB&point=2563EB" alt="Activity graph"/>
+</p>
 
+---
+
+## 🐍 Dynamic Contribution Graph
+
+<p align="center">
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=areebch-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=areebch-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</p>
+
+
+---
+
+## ⚡ Fun Fact
+
+Main complex ideas ko clean, intuitive user experiences mein badalna enjoy karta hun — aur saath hi yeh explore karta rehta hun ke AI development workflows aur productivity ko kaise behtar bana sakta hai.
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-areeb-ch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:codebyareeb@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/areebch-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/areeb9623"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://areeb-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<p align="center">
+  <i>"Engineer experiences, not just interfaces.<br/>Build for people. Optimize for performance. Never stop learning."</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
