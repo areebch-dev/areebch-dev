@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/areebch-dev/areebch-dev/main/assets/banner.png" alt="Muhammad Areeb Mujahid Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/areebch-dev/areebch-dev/main/main/assets/banner.png" alt="Muhammad Areeb Mujahid Banner" width="100%"/>
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=MUHAMMAD+AREEB+MUJAHID;Front-End+Engineer;React+%7C+Next.js+%7C+Angular;AI+Prompt+Engineer" alt="Typing SVG"/>
